@@ -1,0 +1,28 @@
+CVs :-
+
+LinkedIn Profile
+Github Profile
+Rpubs --- Who learned R
+
+
+Data Science Skills:
+
+1. Python ( Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn )
+2. R ( R Basics, dplyr etc)
+3. Applied Statistics ( Central Tendancy, Dispersion, Statistical tests )
+4. Applied Machine Learning ( Regression - LinearRegression, SVR, RFR,
+                              Classification - Algos,
+			      Clustering - Algos,
+			      Association Rule Mining - Apriori
+			      Time Series Analysis - MA, ARIMA)
+
+5. Exploratory Data Analysis using Python and R
+6. Feature Extraction and Selection using Python and R
+
+
+Projects:
+HR Salary Prediction 
+Shopping Mall Customer Segmentation
+Shopping Mall Customer Classification
+
+
